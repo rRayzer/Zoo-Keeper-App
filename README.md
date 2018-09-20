@@ -1,6 +1,8 @@
-# Python Projects
+# Zoo Keeper App
 
-### Developer: Raymond Trang
+This app allows a zoo keeper keep track of their animals by adding/removing animals using OOP
 
-### Zoo program adds/remove animals into text based zoo
-### First_game is a text based game based in a cave that the user must navigate through
+## Installation
+
+### Requirements
+* Python 2.7
